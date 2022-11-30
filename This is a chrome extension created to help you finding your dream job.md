@@ -27,6 +27,8 @@ https://developers.notion.com/docs/create-a-notion-integration
 
 Next.js, Notion
 
+https://css-tricks.com/nextjs-chrome-extension-starter/#:~:text=Start%20developing&text=js%20Chrome%20extension.,on%20the%20Load%20Unpacked%20button.
+
 https://github.com/ravgeetdhillon/notion-bookmarks
 
 https://akashrajkn.medium.com/google-chrome-extension-with-notion-integration-building-arxiv-enhanced-1-1f27cddbf750
